@@ -1,0 +1,20 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+.Login header {
+    display: flex;
+    justify-content: center;
+}
+
+.Login form {
+    display: flex;
+    flex-direction: column;
+}
+
+.Login header img {
+    max-width: 100%;
+}
