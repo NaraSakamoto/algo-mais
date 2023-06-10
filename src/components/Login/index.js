@@ -6,7 +6,7 @@ function Login() {
     return (
         <section className="Login" name="Login">
             <header className="App-header">
-                <img src='/images/logo.png' />
+                <img src='/images/logo.png' alt='Logo da marca Algo mais'/>
             </header>
             <form>
                 <InputText label="Email" placeholder="Digite seu email aqui" />
@@ -15,6 +15,6 @@ function Login() {
             </form>
         </section>
     );
-  }
+}
 
 export default Login;

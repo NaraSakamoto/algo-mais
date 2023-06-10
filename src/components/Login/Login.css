@@ -1,8 +1,8 @@
 .Login {
+    margin: 0 40px 0 40px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    width: 80%;
 }
 
 .Login header {
@@ -16,5 +16,5 @@
 }
 
 .Login header img {
-    max-width: 100%;
+    max-width: 80%;
 }
